@@ -4,11 +4,11 @@ Astral-Link is a Full Stack Chatting App. Uses Socket.io for real-time communica
 
 ## Tech Stack
 
-**Client:** React JS
+**Client:** `React JS`
 
-**Server:** Node JS, Express JS & Socket.io
+**Server:** `Node JS`, `Express JS` & `Socket.io`
 
-**Database:** Mongo DB
+**Database:** `Mongo DB`
 
 ## Demo Video 
 
